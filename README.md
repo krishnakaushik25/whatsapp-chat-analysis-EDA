@@ -16,4 +16,4 @@
 
 
 
-The complete explanation and code is in my ipynb Notebook file.
+The complete explanation and code is in my whatsapp_chat_analysis(EDA).ipynb file.
